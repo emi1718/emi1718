@@ -1,11 +1,10 @@
-
 # Hi 👋, I'm Muhammad Imran
 ### A passionate Website Developer from Pakistan
 
 <img align="right" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran171825&label=Profile%20views&color=0e75b6&style=flat" alt="imran171825" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on an **E-commerce website**
 - 🌱 I’m currently learning **Flutter & Dart**
 - 💬 Ask me about **JavaScript, C#, Angular, PHP, and SQL**
 - 📫 How to reach me: **emrankhan41949@gmail.com**
@@ -34,6 +33,3 @@
 
 ---
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran171825&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran171825&layout=compact&theme=radical)
