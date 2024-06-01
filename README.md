@@ -4,9 +4,9 @@
 <img align="right" width="400px" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran171825&label=Profile%20views&color=0e75b6&style=flat" alt="imran171825" /> </p>
 
-- 🔭 I’m currently working on an **E-commerce website**
-- 🌱 I’m currently learning **Flutter & Dart**
-- 💬 Ask me about **JavaScript, C#, Angular, PHP, and SQL**
+- 🔭 I’m currently working on an **Mobile Application**
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **Html, css, JavaScript, C#, Angular, PHP, SQL, Flutter and Dart**
 - 📫 How to reach me: **emrankhan41949@gmail.com**
 - ⚡ Fun fact: **I think I am funny**
 
